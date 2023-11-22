@@ -43,6 +43,14 @@ nav a:hover {
         border: 2px solid #000000;
         border-radius: 10px;
     }
+    .produtos li:hover {
+        border-color: #C78C19;
+    }
+    .produtos li:active {
+        border-color: #088C19;	
+    }
+    
+    
     
 
 .produtos h2 {
